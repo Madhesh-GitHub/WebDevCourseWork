@@ -11,7 +11,7 @@ This is a simple QR Code Generator project built using Node.js and npm. The appl
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/Madhesh-GitHub/.git](https://github.com/Madhesh-GitHub/WebDevCourseWork/QR Code Project)
+   git clone https://github.com/Madhesh-GitHub/WebDevCourseWork/QR Code Project
    ```
 
 2. Navigate to the project directory:
